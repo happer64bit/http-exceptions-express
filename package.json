@@ -1,5 +1,5 @@
 {
-  "name": "http-exceptions-express",
+  "name": "@happer64bit/http-exceptions-express",
   "type": "module",
   "version": "0.1.0",
   "peerDependencies": {
