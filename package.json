@@ -1,11 +1,12 @@
 {
-  "name": "@happer64bit/http-exceptions-express",
+  "name": "http-exceptions-express",
   "type": "module",
   "version": "0.1.0",
   "peerDependencies": {
     "express": "^5.2.1",
     "typescript": "^5"
   },
+  "keywords": ["express", "middleware", "http", "http-exceptions"],
   "scripts": {
     "build": "tsc"
   },
@@ -22,9 +23,6 @@
   },
   "repository": {
     "url": "https://github.com/happer64bit/http-exceptions-express"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
   },
   "devDependencies": {
     "@types/express": "^5.0.6"
